@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kan jij ook niet wachten tot Pasen?
 
 You can use the [editor on GitHub](https://github.com/air-ion/paasdiner/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
